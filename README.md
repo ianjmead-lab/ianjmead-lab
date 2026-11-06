@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ianjmead-lab/ianjmead-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Independent AI-forward ops consultant. Building with Claude Code.
 
 I help startups turn messy operations into workflows and agents that run without manual effort. Previously an early-stage startup operator.
@@ -12,4 +9,3 @@ I help startups turn messy operations into workflows and agents that run without
 👯 Looking to collaborate with: independent consultants and startup operators
 💬 Ask me about: BizOps, Strategy & Ops, and automating operations
 📫 Reach me: [ian.j.mead@gmail.com](mailto:ian.j.mead@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ian-mead/)
--->
